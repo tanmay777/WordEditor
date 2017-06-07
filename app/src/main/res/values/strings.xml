@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EditorInnerVoice</string>
+    <string name="colorButton">A</string>
+    <string name="title">Android Custom Editor</string>
+    <string name="hint">Type some awesome here</string>
+    <string name="link">https://github.com/windyzboy/CustomEditor</string>
+
 </resources>
